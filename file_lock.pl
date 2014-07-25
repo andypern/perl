@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
-#3/2/2006
+#7/25/2014
 #Andy Pernsteiner
-#Isilon Systems
+#MapR 
 #name: file_lock.pl
 #purpose: to test file locking/unlocking, and provide time delay between lock/ul
 use strict;

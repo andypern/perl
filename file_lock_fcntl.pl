@@ -1,9 +1,8 @@
 #!/usr/bin/perl -w
-#3/2/2006
+#7/25/2014
 #Andy Pernsteiner
-#Isilon Systems
 #name: file_lock_fcntl.pl
-#purpose: to test file locking/unlocking, and provide time delay between lock/ul
+# this just performs fcntl locks..nothing fancy
 use strict;
 use Fcntl;
 
